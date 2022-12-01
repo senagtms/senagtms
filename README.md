@@ -44,6 +44,14 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
+    &emsp;
+   <a href="https://pugjs.org/api/getting-started.html" target="_blank">
+    <img alt="Pug" src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454">
+  </a>
+    &emsp;
+  <a href="">
+    <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
