@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior Sofware Devoloper from Turkey.</h4>
+<h4 align="center">I am a Junior Sofware Devoloper in Turkey.</h4>
 <br>
 
 ## 🛠️ My Skills
