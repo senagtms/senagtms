@@ -65,7 +65,7 @@
     <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   </a>
   &emsp;
-    <a href="https://www.mysql.com/"  target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16"  target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
   
   &emsp;
     <a href="https://firebase.google.com/"  target="_blank"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></a>
