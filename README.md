@@ -21,10 +21,9 @@
     <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
   &emsp;
-  <a href="https://img.shields.io/badge/-.NET%206.0-blueviolet" target="_blank"> 
-    <img alt=".Net" src="https://img.shields.io/badge/-.NET%206.0-blueviolet">
-  </a>
-  
+    <a href="https://dotnet.microsoft.com/en-us/learntocode" target="_blank"> 
+     <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+   </a>
   &emsp;
    <a href="https://pugjs.org/api/getting-started.html" target="_blank">
     <img alt="Pug" src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454">
