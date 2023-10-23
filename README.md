@@ -13,13 +13,18 @@
 
 <p align="left"> 
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://img.shields.io/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    </a>
   &emsp;
   <a href="https://nodejs.org/en/" target="_blank"> 
     <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://img.shields.io/badge/-.NET%206.0-blueviolet" target="_blank"> 
+    <img alt=".Net" src="https://img.shields.io/badge/-.NET%206.0-blueviolet">
+  </a>
+  
   &emsp;
    <a href="https://pugjs.org/api/getting-started.html" target="_blank">
     <img alt="Pug" src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454">
