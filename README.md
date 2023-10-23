@@ -1,38 +1,35 @@
 
 <h1 align="center">Hi , I'm Sena Gitmiş<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;&center=true&width=500&height=50"></a>
-</p>
-<hr/>
 <h4 align="center">I am a Software Developer</h4>
 <br>
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Backend Development
 
 <p align="left"> 
-  &emsp;
-  <a href="https://img.shields.io/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-   </a>
   &emsp;
   <a href="https://nodejs.org/en/" target="_blank"> 
     <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
   &emsp;
     <a href="https://dotnet.microsoft.com/en-us/learntocode" target="_blank"> 
-     <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+     <img alt=".NET" src="https://img.shields.io/badge/.NET-6C2D91?style=for-the-badge&logo=.net&logoColor=white">
    </a>
   &emsp;
-   <a href="https://pugjs.org/api/getting-started.html" target="_blank">
-    <img alt="Pug" src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454">
-  </a>
+    <a href="" target="_blank"> 
+     <img alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+   </a>
   &emsp;
-  <a href="">
-    <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  </a>
+    <a href="" target="_blank"> 
+     <img alt="rabbitmq" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+   </a>
+  &emsp;
+
+  
 </p>
+
+
 
 ### 👉 Frontend Development
 <p align="left"> 
@@ -45,6 +42,10 @@
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
    &emsp;
+  <a href="https://img.shields.io/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+   </a>
+  &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
